@@ -22,6 +22,10 @@
 		display: block;
 	}
 
+	.skinny-img {
+		margin: 0 50px;
+	}
+
 	.icon:hover {
 		background: black;
 	}
