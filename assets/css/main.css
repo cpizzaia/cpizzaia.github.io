@@ -22,8 +22,8 @@
 		display: block;
 	}
 
-	.skinny-img {
-		margin: 0 50px;
+	.slim {
+		margin: 0 50px !important;
 	}
 
 	.icon:hover {
